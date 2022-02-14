@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/SontechNoteKeeper/static/css/main.523cf06f.css",
+    "main.css": "/SontechNoteKeeper/static/css/main.f0b319c5.css",
     "main.js": "/SontechNoteKeeper/static/js/main.549c1bc0.js",
     "index.html": "/SontechNoteKeeper/index.html",
-    "main.523cf06f.css.map": "/SontechNoteKeeper/static/css/main.523cf06f.css.map",
+    "main.f0b319c5.css.map": "/SontechNoteKeeper/static/css/main.f0b319c5.css.map",
     "main.549c1bc0.js.map": "/SontechNoteKeeper/static/js/main.549c1bc0.js.map"
   },
   "entrypoints": [
-    "static/css/main.523cf06f.css",
+    "static/css/main.f0b319c5.css",
     "static/js/main.549c1bc0.js"
   ]
 }
